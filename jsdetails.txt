@@ -1,5 +1,0 @@
-JS e puro ekta block ke document hishebe consider korlam.
-Akhn okhan theke
-
-getElementById,getElementByName,getElementByTag etc diye amra exact kichu k notify kore
-okhane action dibo
